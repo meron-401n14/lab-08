@@ -4,7 +4,7 @@ Express Routing &amp; Connected API
 ### Author: Meron
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/meron-401n14/lab-08/pull/1)
 * [travis](http://xyz.com)
 * [Heroku](http://xyz.com) (when applicable)
 
