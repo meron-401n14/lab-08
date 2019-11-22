@@ -13,7 +13,7 @@ Express Routing &amp; Connected API
 * [jsdoc](http://xyz.com) (Server assignments)
 ### Setup
 #### `.env` requirements
-* `PORT` - 3000
+* `PORT` - 5000
 * `MONGODB_URI` - mongodb+srv://meron123:meron123@cfcluster-kexaa.mongodb.net/app2?retryWrites=true&w=majority';
 
 #### Running the app
