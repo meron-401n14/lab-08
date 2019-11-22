@@ -6,7 +6,7 @@ Express Routing &amp; Connected API
 ### Links and Resources
 * [submission PR](https://github.com/meron-401n14/lab-08/pull/1)
 * [travis](http://xyz.com)
-* [Heroku](http://xyz.com) (when applicable)
+* [Heroku](https://lab-08.herokuapp.com/)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
