@@ -9,8 +9,8 @@ Express Routing &amp; Connected API
 * [Heroku](https://lab-08.herokuapp.com/)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
+* [Swagger](comments only)
+* [jsdoc](comments only)
 ### Setup
 #### `.env` requirements
 * `PORT` - 5000
