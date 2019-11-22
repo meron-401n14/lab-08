@@ -1,7 +1,7 @@
 {
-  "name": "api-server-solution",
+  "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express Routing &amp; Connected API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,17 +14,36 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "",
+  "author": "Meron",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "bcrypt": "^3.0.2",
+    "cors": "^2.8.4",
+    "debug": "^4.1.0",
+    "dotenv": "^6.2.0",
+    "eslint": "^6.6.0",
+    "express": "^4.16.3",
     "jest": "^24.8.0",
-    "mongodb-memory-server": "^5.1.5",
-    "mongoose": "^5.7.12",
-    "mongoose-schema-jsonschema": "^1.2.1",
-    "supertest": "^4.0.2",
-    "uuid": "^3.3.3"
-  }
+    "jsonwebtoken": "^8.4.0",
+    "mongodb-memory-server": "^5.1.4",
+    "mongoose": "^5.3.13",
+    "mongoose-schema-jsonschema": "^1.1.15",
+    "morgan": "^1.9.0",
+    "require-directory": "^2.1.1",
+    "supertest": "^3.3.0",
+    "swagger-ui-express": "^4.0.2"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meron-401n14/lab-08.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meron-401n14/lab-08/issues"
+  },
+  "homepage": "https://github.com/meron-401n14/lab-08#readme"
 }
