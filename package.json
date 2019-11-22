@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "jest --verbose",
-    "test-watch": "jest --watchAll --verbose"
+    "watch": "nodemon index.js",
+    "lint": "eslint \"**/*.js\"",
+    "test-watch": "jest --watchAll",
+    "test": "jest"
   },
   "jest": {
     "testEnvironment": "node"

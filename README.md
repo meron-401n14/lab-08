@@ -21,12 +21,10 @@ Express Routing &amp; Connected API
 
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* npm test
 
 #### UML
-Link to an image of the UML for your application and response to events
+* ![People-Team](lab-08.jpg)
 
 
 
